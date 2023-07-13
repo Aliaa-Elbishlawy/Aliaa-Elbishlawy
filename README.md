@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aliaa Mohammed </h1>
 <h3 align="center">student at FCAI, Cairo University</h3>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 📫 How to reach me **aliaamohamed3.2003@gmail.com**
 
