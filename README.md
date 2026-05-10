@@ -14,7 +14,7 @@ Passionate Dynamics 365 CRM and .NET Developer with experience in building scala
 * Power Platform
 * Power Automate
 * REST APIs & Web API
-* Git & GitHub
+* Git & GitHub & TFS
 
 ## 🚀 What I Do
 
